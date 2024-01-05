@@ -7,7 +7,9 @@ public class Calculatrice {
 	public static int mul(int a, int b) {
 		return a*b; // à corriger par a+b
 	}
+
 	public static int mul(int a, int b) {
 		return a*b; // à corriger par a+b
 	}
+
 }
